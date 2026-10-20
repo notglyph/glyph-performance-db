@@ -21,3 +21,9 @@ Failures get the same rigor as breakouts. A technique common among winners *and*
 - **blooporobloxs:** silent 25 days (since Sep 25) after earlier hits — a tracked competitor going dark; heat is perishable.
 - **Hook-less dilemma reels** across the niche are landing flat (morning-briefing observation, Oct 20) — dilemmas without an instant visual hook are the current failure shape to avoid.
 - **capybluh non-explainer reels stall** while explainers climb (costume reel: 577 likes vs microwave explainer 13.7K) — format-audience mismatch inside one account; a reminder that a creator's "baseline" is format-specific.
+
+## Study addendum — Oct 20, 2026 (Operation 20/20)
+
+- **Bare-label hooks:** "SCARY GIRL" (1.4x, the sample's weakest) — a label is not a situation: nothing to solve, judge, or fear specifically. Cheap to produce, still failed — production cost is not the differentiator.
+- **Off-format posts punished (again):** capybluh costume reel ~577 likes vs 13.7K for the same account's explainer — format breaks on a working account keep underperforming (joins the onvi text-quote counterexample).
+- **Stated-rule fatigue:** three same-creator world-rule posts at 1.4–1.8x in one week after an 18-pop-off run — premise statements decay when the audience has seen the device repeatedly that week.

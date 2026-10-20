@@ -1,61 +1,51 @@
 # Latest Research Brief — Glyph Shorts Intelligence
 
-*First brief under the intelligence-system format. Refreshed daily by the morning briefing; this file is ChatGPT's entry point.*
+*Refreshed Oct 20, 2026 (evening) with the Operation 20/20 study. Full study: `reports/first_20_video_study.md`. Audit: `reports/audit_2026-10-20.md`.*
 
 ## Research status
 
-- **Last successful update:** Oct 20, 2026, ~4:45 PM ET (system build + audit).
-- **Coverage period:** Oct 15–20, 2026 in depth; competitor pop-off log reaches back to Sep 21, 2026.
-- **Sources checked:** YouTube Studio (owner-authorized, read-only — partial: dashboard/overview reads work, some tabs intermittently hit Google's "verify it's you" gate; the Earn tab read failed Oct 20, session gated); Instagram public metrics via the daily tripwire; D.B. Cooper comment sample (33 comments, mixed Top + Newest, Oct 18).
-- **New videos logged this cycle:** 61 competitor records + 7 Glyph records seeded into `data/` (historical log converted; ongoing collection is live from Oct 20).
-- **Failed checks & limitations:** YPP Earn-tab "valid public Shorts views" number still **Unverified** (last verified: 3.0M / 31% of the 10M bar, Sep 22). @notglyph Studio analytics are unreachable from the signed-in account (it owns @wasglyph and @rpglyph, not @notglyph). Competitor retention/subs: Unavailable (not public) — never estimated.
+- **Last successful update:** Oct 20, 2026, ~5:15 PM ET (Mission 002: audit + 20-video comparative study).
+- **Coverage:** study sample = 18 videos (10 breakouts, 8 comparisons) from the verified database; wider log spans Sep 21 – Oct 20, 2026.
+- **Sources checked:** the intelligence database itself (Tier 1 records per the audit), Studio reads from earlier today, the tripwire's logged breakdowns. **A fresh Instagram pull attempted today failed an automated safety check and was discarded unused** — Group B was built from previously logged records instead.
+- **Failed checks & limitations (unchanged + new):** YPP Earn-tab number still **Unverified** (last verified 3.0M / 31%, Sep 22). @notglyph Studio unreachable (account ownership). **New, major:** the database holds **zero video URLs**, so verified first-frame analysis count for the study is **0** — frame claims are marked Unavailable throughout, and URL + first-frame capture is now required at collection time.
 
-## Top new discoveries
+## Top discoveries (from the 20/20 study)
 
-1. **D.B. Cooper settled weak** (`glyph:db-cooper`): 16.5K views at ~61h vs 41K–97.4K typical, stayed finalized ~71.3%, avg viewed 101.4%, +21 subs. The first-3s re-cut did **not** fix the swipe — and reposting carried no penalty. Full check-ins: `WASGLYPH_PERFORMANCE_DB.md` Part 1.
-2. **Halloween + fishing is a live lane:** nepshublox tripped twice in one night (Ghost Fish 9.8x, Halloween Fishing 7.9x, Oct 18–19) — novelty-drop speed coverage inside a hot streak.
-3. **Hidden-detail comment bait hit its highest-stakes variant:** roblxify's murder-alibi riddle (566 comments, 7.2x) — the 12th instance of the pattern in ~19 days.
-4. **Everyday-mechanics explainers are a new watching pattern:** capybluh "How a Microwave Works" (12K+ likes, 5.8x, still climbing) while the same account's non-explainer reels stall.
+1. **Question-form hooks vs premise statements:** 8/10 breakout hooks pose an unresolved question or violated expectation; 7/8 comparison hooks state the premise flat. Sharpest split in the sample — registered as H10 (low–moderate confidence; counterexamples on record).
+2. **Within the same creator** (@craftee_films, both groups), breakouts carried an emotional arc or inverted goal — both generate reversals structurally — while same-week typicals were premise explorations. (H11.)
+3. **Participation is the extreme-comment road:** the sample's biggest multiple is a timed math puzzle (5,644 comments); the YouTube anchor is a forced-choice comparison (~5–6x views). Glyph already owns the forced-choice format but gets 0.21% comment rates — the gap is execution (loopholes, discoverable details), not format.
+4. **Database integrity:** all 61 competitor multipliers are engagement multiples, now labeled as such — they were never view multiples. Mom Dilemma's Oct 15 check-in remains flagged unreliable; Theft Parachute's early age labels corrected to rely on collection dates.
 
-## Emerging creative patterns
+## Emerging patterns
 
-Full register: `analysis/hypotheses.md`. Headlines:
+H10 (question-form hooks) and H11 (reversal-bearing stories) join the register in `analysis/hypotheses.md`. H1/H2 (the 82% bar; the stayed/avg-viewed split) unchanged. H5 (single-rule worlds) now carries a live tension with H10: stated rules won on other days for the same creators — novelty-to-audience and posting fatigue are rival explanations the next tests should discriminate.
 
-- **Stayed/avg-viewed split (H2, moderate):** two Glyph videos show the same signature — loss at the first-frame swipe, body fine. The fix to test is frame composition, not script.
-- **~82% stayed bar (H1, moderate):** still separating Glyph pushes from non-pushes across 5 independent videos — but Mom Dilemma proves debate can bypass it. Association, not causation.
-- **Escalation chains (H4, moderate)** and **single-rule worlds (H5)** remain the niche's most repeated winner shapes; craftee_films ran ~18 pop-offs in 8 days on them.
+## Strongest hooks (from the sample)
 
-## Strongest hooks (verified shapes)
-
-- **Impossible rule, second person, quantified** — "You Teleport Every Hour": premise comprehension is instant because the viewer is the subject.
-- **Identity violation in one frame** — a familiar person where they can't be (fearless.gman, 152x surge).
-- **Named-rarity event framing** — the title pre-loads curiosity before frame one (nepshublox drop coverage).
-- Glyph-side: no verified frame-by-frame first-3s breakdowns logged yet for our own uploads — closing that gap is a named action in `analysis/hook_patterns.md`.
+Identity violation (someone in two places at once) · timed challenge ("only 1% can solve this") · pun titles that force a second look · inverted goals · forced-choice comparisons. Weakest: bare labels ("SCARY GIRL," 1.4x) — a label is not a situation.
 
 ## Interesting failures
 
-- **Theft Parachute → D.B. Cooper** (see `analysis/failed_patterns.md`): same dilemma, two openings, same ceiling (~58% → ~71% stayed, neither pushed). Either the premise is capped or frame-one still doesn't show the whole dilemma. The next one-resource dilemma is the discriminating test.
-- **blooporobloxs:** silent 25 days — niche heat is perishable; back-catalog compounding (craftee) appears to require continued posting.
+- **Bare-label hooks and off-format posts** — both cheap to make, both failed (see `analysis/failed_patterns.md` addendum). Production cost is not the differentiator.
+- **D.B. Cooper** remains the week's Glyph-side lesson: 16.5K / 71.3% stayed; the re-cut didn't fix the swipe; which first frame actually shipped is still Unverified.
 
 ## Glyph-specific implications
 
-- Channel at **100,817 subs** (Oct 20), ~470/day. The 10M/90-day Shorts-views bar is the north star; its authoritative count remains unverified until Studio access clears.
-- D.B. Cooper was the week's worst performer (15.7K, 71.2%) and "Zero Gravity" the best (28.4K, 81.6%) in the Oct 12–19 review — world-rule shape beat the one-resource dilemma shape this week, on both retention and views.
-- Comment debates are not firing on recent dilemmas (0.21–0.22% rates). The two proven debate engines — forced choice with closed loopholes, and hidden details — are both underused right now.
+Channel at **100,817 subs** (Oct 20). The study's three experiments (below) map one-to-one onto Glyph's three measured weaknesses: the first-frame swipe (split signature), the body ceiling on dilemmas, and the 0.21% comment floor.
 
-## Recommended experiments (for ChatGPT to develop)
+## Recommended experiments (full specs in the study, Phase 5)
 
-1. **First-frame-full-dilemma test.** Principle: the split signature says viewers swipe before the dilemma registers. Make one Short where frame one already shows both options, the danger, and the limiting constraint — no setup shot. Measure: stayed% and the split vs D.B. Cooper's 71.3/101.4. Uncertainty: premise ceiling vs frame effect is still unresolved; this test discriminates them.
-2. **Hidden-detail dilemma.** Principle: comments-as-distribution is the niche's strongest comment engine (12+ instances). One findable detail in-frame (a name patch, a wrong number) that the spoken CTA points at, inside an original forced-choice scenario. Measure: comment rate vs the 0.22% no-detail baseline.
-3. **Escalation-chain president storyline** (already briefed Oct 19). Principle: BUT/THEREFORE chains are the most repeated winner shape (8+ instances, 3 creators). Each accident caused by the previous one; climax carries a forced choice to give comments somewhere to go. Measure: stayed% + comment rate together — it should move both engines at once.
+1. **Visual hook — "The Whole Dilemma In Frame One":** frame one already contains both options, the danger, and the visible constraint (lifeboat concept). Metric: stayed% + split vs D.B. Cooper's 71.3/101.4. Weakening result pre-registered in the study.
+2. **Storytelling — "Every Accident Causes The Next":** BUT/THEREFORE escalation chain (mayor-by-accident concept; formalizes the Oct 19 president brief). Metric: stayed% + avg viewed together.
+3. **Engagement — "One Findable Lie":** a discoverable wrong detail inside a forced-choice dilemma (two-keys concept); the CTA asks the choice, never names the detail. Metric: comment rate vs the 0.21% baseline + share of comments catching the detail.
 
 ## Changes since previous report
 
-First brief in this format — no predecessor. System changes this cycle: repository restructured (data/analysis/reports/schemas/methodology added); pop-off database merged into the master DB as Part 2; pattern standard corrected (three instances no longer "confirms" a pattern — see `analysis/hypotheses.md`); one data contradiction found and flagged (Mom Dilemma Oct 15 check-in — see audit note in Part 1 and `data/research_observations.jsonl`).
+Mission 002 completed: full database audit (8 issue classes corrected or flagged — `reports/audit_2026-10-20.md`); 20-video comparative study published (`reports/first_20_video_study.md`); schema additively extended (multiplier basis, grouped, metrics flags — documented in `schemas/README.md`); hypotheses H10 + H11 added; Group B shortfall (8/10) reported rather than back-filled; YouTube watch-list observations identified as unstructured (live in COMPETITORS.md etc.) — flagged for the tripwire to structure going forward.
 
 ## Data links
 
-- Master DB: `WASGLYPH_PERFORMANCE_DB.md` (Part 1 Glyph, Part 2 pop-offs)
-- Structured data: `data/glyph_videos.jsonl`, `data/competitor_videos.jsonl`, `data/performance_snapshots.jsonl`, `data/research_observations.jsonl`
-- Patterns: `analysis/hypotheses.md`, `analysis/hook_patterns.md`, `analysis/breakout_patterns.md`, `analysis/storytelling_patterns.md`, `analysis/comment_patterns.md`, `analysis/failed_patterns.md`
-- Rules: `methodology/research_rules.md`, `methodology/data_dictionary.md`, `schemas/README.md`
+- Study: `reports/first_20_video_study.md` · Audit: `reports/audit_2026-10-20.md`
+- Master DB: `WASGLYPH_PERFORMANCE_DB.md` · Data: `data/*.jsonl`
+- Patterns: `analysis/hypotheses.md` (H1–H11), `analysis/hook_patterns.md`, `analysis/storytelling_patterns.md`, `analysis/failed_patterns.md`
+- Rules: `methodology/research_rules.md`, `schemas/README.md`

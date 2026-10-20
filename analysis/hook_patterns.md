@@ -19,3 +19,7 @@ The highest creative priority in this system. Only verified inspections count; u
 - **Impossible-rule statement** (craftee_films): second-person quantified rules ("You Teleport Every Hour") make the viewer the subject; premise comprehension is instant.
 - **Identity violation** (fearless.gman): a familiar person where they can't be ("My Dog is SMILING!") — dread in one frame.
 - Each is a *shape*, logged from post-level inspection; full first-3s verification requires watching, and is marked per-video in `data/competitor_videos.jsonl`.
+
+## Study addendum — Oct 20, 2026 (Operation 20/20, reports/first_20_video_study.md)
+
+Question-form vs premise-statement split (n=18, within-creator multiples, IG-dominant): 8/10 breakout hooks pose an unresolved question or violated expectation; 7/8 comparison hooks state a premise flat. Registered as H10. Counterexample on record: premise-statement world rules have won repeatedly for the same creators on other days — novelty-to-that-audience and posting fatigue are live rival explanations. Frame-level claims remain Unavailable (no URLs/frames in the database; capture now required at collection).

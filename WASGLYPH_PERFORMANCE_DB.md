@@ -18,6 +18,8 @@ Seeded Oct 15, 2026 from morning briefings and upload-radar notes (figures appro
 
 ## Part 1 — Emerging patterns
 
+> **AUDIT NOTE (Oct 20, 2026, Mission 002):** Pattern labels below use the retired Oct 2026 standard ("confirmed" at 3+ instances). Under the current standard (methodology/research_rules.md §11–13), every pattern here is a **hypothesis** with a confidence level — see analysis/hypotheses.md for the scored register, counterexamples, and independent-video sample sizes. Original text preserved; nothing deleted.
+
 (Update as entries accumulate. A pattern graduates from "watching" to "confirmed" at 3+ independent instances.)
 
 1. **82% stayed = the breakout bar (confirmed Oct 15):** Oxygen Mask (83.4%) and Mind Reading (82.4%) both broke out; Zero Gravity (81.6%) sat just under across 4 check-ins and held without tripping the alert; Theft Parachute (58.1%, finalized — Oct 16 read removed the "still processing" asterisk, direction unchanged) flatlined in distribution and died — five consistent instances, two above and three below. The bar holds in both directions. **Oct 19 sixth instance:** D.B. Cooper finalized at 71.2% stayed — below the bar — and the push never came (15.7K views vs 36.1K–94.2K typical, 'Views are lower than usual'). **Oct 19 ~50h: still no late push (15.9K vs 39K–97K typical, ranked 9 of 10) — the bar's prediction held into day three.** **Oct 20 ~61h: still no push (16.5K vs 41K–97.4K typical), stayed% rock-stable at 71.3% — the bar's prediction now holds into the third day on six consistent reads.**
@@ -136,6 +138,8 @@ Every niche pop-off (~3x+ baseline engagement) the daily competitor tripwire cat
 - **Tags:**
 
 ## Part 2 — Emerging patterns
+
+> **AUDIT NOTE (Oct 20, 2026, Mission 002):** Pattern labels below use the retired Oct 2026 standard ("confirmed" at 3+ instances). Under the current standard (methodology/research_rules.md §11–13), every pattern here is a **hypothesis** with a confidence level — see analysis/hypotheses.md for the scored register, counterexamples, and independent-video sample sizes. Original text preserved; nothing deleted.
 
 (Update this section as entries accumulate. A pattern graduates from "watching" to "confirmed" after 3+ independent instances.)
 

@@ -22,3 +22,7 @@
 ## Inverted goals
 
 - **Hypothesis:** Win-by-losing premises invert the viewer's prediction and hold attention. craftee race (20.9x), nepshublox boxing (81x). 2 creators, confidence low–moderate. Untested by Glyph.
+
+## Study addendum — Oct 20, 2026 (Operation 20/20)
+
+Within-creator comparison (@craftee_films, both groups): breakouts carried an emotional arc (BEST FRIENDS) or an inverted goal (Finish LAST) — both generate BUT/THEREFORE reversals structurally — while same-week typicals were premise explorations without a logged reversal. Supports H4 and adds H11 (reversal-bearing > premise-only, same creator). Counterexample: the sample's biggest multiple (roblxify math puzzle, 182x) has no story at all — participation is a separate road.

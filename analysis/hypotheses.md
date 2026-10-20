@@ -18,3 +18,18 @@ The system's live hypotheses, scored honestly. Rules: sample size counts **indep
 
 - **"Comment rate ≥1.5% marks a debate"** — corrected Oct 18: Escape Pod fired at ~1.1% with the channel's largest volume. Working marker: ~1%+ *with* high absolute volume.
 - **"Patterns confirm at 3 instances"** — retired Oct 20, 2026. Replaced by the confidence standard in `methodology/research_rules.md` (§11–13).
+
+## Added Oct 20, 2026 — Operation 20/20 study (reports/first_20_video_study.md)
+
+### H10 — Question-form hooks beat premise statements
+- **Claim:** A hook that poses an unresolved question or violated expectation outperforms the same premise stated flat, within a creator's own catalog.
+- **Evidence:** Study sample A/B split (8/10 vs 7/8). Glyph-side: untested.
+- **Counterexamples:** Premise-statement world rules are H5's evidence base and won for these same creators on other days; craftee fatigue confound (18 pop-offs in 8 days before the typicals).
+- **Sample size:** 18 videos (10 A / 8 B). **Independent creators:** 7. **Confidence: LOW–MODERATE** (observational, hook text only — no frame data).
+- **Test:** Experiment 1 + a question-form restatement of a planned premise (see study Phase 5). **Status: UNTESTED for Glyph.**
+
+### H11 — Reversal-bearing stories beat premise exploration
+- **Claim:** Within a creator, stories with a mid/late reversal (enemy→ally, sinister→innocent, inverted goal) outperform premise-only explorations.
+- **Evidence:** @craftee_films within-creator split in the study sample; A8/A9 reversals in Group A.
+- **Counterexamples:** A2 math puzzle (no story, biggest multiple) — participation is a separate road; single-creator weight is heavy.
+- **Sample size:** ~8 videos, 3 creators. **Confidence: LOW–MODERATE.** **Test:** Experiment 2. **Status: UNTESTED for Glyph.**

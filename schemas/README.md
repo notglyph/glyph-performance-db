@@ -35,3 +35,11 @@ All files in `data/` are JSONL: one valid JSON object per line, UTF-8. Numeric m
 ## Change policy
 
 Schema changes bump `schema_version` and are documented here with the date and reason. Existing lines are never rewritten to a new schema silently; a migration note is added instead.
+
+## Schema adjustment — Oct 20, 2026 (Mission 002 audit, additive, backward-compatible)
+
+Competitor records gained three optional fields; no existing field was renamed or removed:
+- `breakout_multiplier_basis` (string) — states what the multiple measures. For all Instagram-sourced records: engagement (likes/comments vs creator recent-post median), **not views**. Read this before quoting any multiple.
+- `grouped` (bool) + `group_note` — the record summarizes multiple posts; excluded from per-video comparisons until split.
+- `metrics_complete` (bool) — false when neither likes nor comments were captured.
+- `date_note` — preserves original source date text when `published_at` had to be nulled as non-ISO.
