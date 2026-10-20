@@ -33,3 +33,10 @@ The system's live hypotheses, scored honestly. Rules: sample size counts **indep
 - **Evidence:** @craftee_films within-creator split in the study sample; A8/A9 reversals in Group A.
 - **Counterexamples:** A2 math puzzle (no story, biggest multiple) — participation is a separate road; single-creator weight is heavy.
 - **Sample size:** ~8 videos, 3 creators. **Confidence: LOW–MODERATE.** **Test:** Experiment 2. **Status: UNTESTED for Glyph.**
+
+### H12 — The question must be visible, not just spoken
+- **Claim:** A spoken question hook over a visually neutral opening frame does not stop the swipe; the dilemma/question must be readable from the visuals at ~0:00.
+- **Evidence:** First verified frame-zero in the system (Mission 003): D.B. Cooper opens on a two-character cabin conversation — narration asks "Would you trust your best friend with your life?" but no parachute, danger, or choice is visible; stayed finalized 71.3% with avg viewed 101.4% (loss at the swipe, body held).
+- **Counterexamples / gaps:** n=1, own channel; the same video was a re-cut of a previously capped premise (Theft Parachute 58.1%), so premise ceiling is a rival explanation. Oxygen Mask / Escape Pod openings have not yet been frame-verified for contrast.
+- **Sample size:** 1 video, verified by direct playback + captions (Oct 20, 2026). **Confidence: LOW** (single case, but the first *verified* visual evidence in the register).
+- **Test:** Mission 002 Experiment 1 (whole dilemma in frame one). **Status: UNTESTED.**

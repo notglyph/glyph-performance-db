@@ -45,3 +45,8 @@ Labels describe evidence quality, not truth. A Verified association is still not
 - **YouTube Studio (owner-authorized, read-only)** — Glyph analytics. Access is session-based and intermittently gated by Google verification; gated reads are logged as failed checks, never worked around.
 - **Public pages / platform clients** — competitor public metrics (views/likes/comments).
 - **Comment samples** — mixed Top + Newest samples; sample size, method, and time always recorded; a sample never claims to represent the whole audience.
+
+## Mission 003 additions — Oct 20, 2026
+
+- **`data/youtube_short_visual_observations.jsonl`** — one record per visually inspected YouTube Short. Required: `video_id`, `url`, `visual_source` (how the visual was obtained: direct playback / verified frames / creator-provided media), `seek_precision`, and per-section `status` (Verified / Unavailable). Frame-zero claims require direct playback or verified frames — **never a thumbnail**: a video's served thumbnail is creator-selected and was verified (Oct 20, 2026, on `x_amXwtRcG4`) to potentially show a mid-video frame. Thumbnails may be recorded only as `thumbnail_note`, labeled as feed-facing frames.
+- **View-based multiples (YouTube):** `breakout_multiplier_basis` must say "views" with the baseline method and comparable count; grid view counts are rounded as displayed, so derived multiples are Calculated, not Verified.

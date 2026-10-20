@@ -23,3 +23,7 @@ The highest creative priority in this system. Only verified inspections count; u
 ## Study addendum — Oct 20, 2026 (Operation 20/20, reports/first_20_video_study.md)
 
 Question-form vs premise-statement split (n=18, within-creator multiples, IG-dominant): 8/10 breakout hooks pose an unresolved question or violated expectation; 7/8 comparison hooks state a premise flat. Registered as H10. Counterexample on record: premise-statement world rules have won repeatedly for the same creators on other days — novelty-to-that-audience and posting fatigue are live rival explanations. Frame-level claims remain Unavailable (no URLs/frames in the database; capture now required at collection).
+
+## Mission 003 addendum — Oct 20, 2026 (first verified frame-zero)
+
+Direct playback verification (access report: reports/mission_003_access_report.md) gives the register its first *seen* opening: D.B. Cooper — question-form narration over a visually empty two-shot; premise invisible at 0:00; 71.3% stayed. Also verified: the video's feed thumbnail is a mid-video frame, NOT the opening — thumbnail-based hook claims are invalid without playback confirmation. New hypothesis H12 registered. Competitor frame-zero entries land in analysis/first_frame_patterns.md as deep dives complete.
