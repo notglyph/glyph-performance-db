@@ -40,3 +40,7 @@ The system's live hypotheses, scored honestly. Rules: sample size counts **indep
 - **Counterexamples / gaps:** n=1, own channel; the same video was a re-cut of a previously capped premise (Theft Parachute 58.1%), so premise ceiling is a rival explanation. Oxygen Mask / Escape Pod openings have not yet been frame-verified for contrast.
 - **Sample size:** 1 video, verified by direct playback + captions (Oct 20, 2026). **Confidence: LOW** (single case, but the first *verified* visual evidence in the register).
 - **Test:** Mission 002 Experiment 1 (whole dilemma in frame one). **Status: UNTESTED.**
+
+## H12 revision — Oct 20, 2026 (Mission 003 completed)
+
+Competitor evidence landed (21 frame-verified videos): winners' openings were premise-readable 9/10 vs losers' 7/10 overall, but the split is creator-shaped — Xenost A 4/4 vs B 1/4 (including the sample's only two EMPTY frame zeros, both losers), while MiAnimation1's losers were 4/4 readable and lost on subject/pairing instead. H12 is therefore reframed: **frame zero must carry information** (a premise, contradiction, threat, or choice) — an empty or talking-only opening is the loser signature; a readable opening is necessary-looking but provably not sufficient. Confidence: LOW–MODERATE (up from LOW). D.B. Cooper remains the Glyph-side case matching the loser profile.

@@ -1,35 +1,35 @@
 # Latest Research Brief — Glyph Shorts Intelligence
 
-*Refreshed Oct 20, 2026 (evening) — Mission 003 in progress. Access report: `reports/mission_003_access_report.md`. Study: `reports/mission_003_frame_zero_study.md`. Mission 002 study: `reports/first_20_video_study.md`; audit: `reports/audit_2026-10-20.md`.*
+*Refreshed Oct 20, 2026 (evening) — Mission 003 COMPLETE. Study: `reports/mission_003_frame_zero_study.md`. Access: `reports/mission_003_access_report.md`. Mission 002: `reports/first_20_video_study.md`; audit: `reports/audit_2026-10-20.md`.*
 
 ## Research status
 
-- **Last successful update:** Oct 20, 2026, ~5:20 PM ET (Mission 003 checkpoint + first verified frame-zero + MiAnimation1 structured sample).
-- **Access (new, verified):** YouTube Shorts playback works in our browser — motion, audio, auto-captions readable; seeking is percentage-coarse (timestamps approximate); no transcript tab (captions are the route); no access barriers hit. Frame-zero research is now possible and underway.
+- **Last successful update:** Oct 20, 2026, ~6:05 PM ET (Mission 003 closed).
+- **Mission 003 totals:** 24 Shorts sampled (12 outperformers / 12 comparisons, matched within MiAnimation1, Xenost, ReymondRBLX); **21 frame-verified** by direct playback (+1 typical control + D.B. Cooper = 23 verified visual records in `data/youtube_short_visual_observations.jsonl`); 3 videos unplayable at the media level ("Video unavailable" — recorded as Unavailable, metadata complete). All multiples view-based.
 - **Still unverified:** YPP Earn-tab number (last verified 3.0M / 31%, Sep 22; Studio gate). @notglyph Studio unreachable (account ownership).
 
-## Top new discovery — the first *seen* opening
+## The Frame Zero findings (verified, counted)
 
-**D.B. Cooper's frame zero is now verified by direct playback:** a two-character cabin conversation. The narration opens with a question ("Would you trust your best friend with your life?") but **nothing of the dilemma is visible at 0:00** — no parachute, no danger, no choice; the premise lands ~2–3s in, by voice. With stayed at 71.3% and avg viewed 101.4%, the swipe-vs-body split has a visible mechanism: first-second viewers had nothing to decide *with*. Registered as **H12 — the question must be visible, not just spoken** (n=1, own channel; premise-ceiling rival explanation noted).
+1. **Frame zero must carry information.** Winners' openings were premise-readable 9/10 vs losers' 7/10 — and the sample's only two EMPTY frame zeros (a brown texture; a red curtain) both belong to losers. Glyph's D.B. Cooper (two-shot conversation, dilemma invisible at 0:00, 71.3% stayed) matches the loser profile exactly. H12 reframed and strengthened.
+2. **The #1 video fuses everything at 0:00:** "Choose the Right my Face" (19.1M, 9s) — the CTA words (Share/Like/Comment/Subscribe) are the choice labels in the opening frame, beside a mystery silhouette and a bound character over a campfire. Choice + stakes + participation, one tableau.
+3. **Escalation and twists do NOT separate winners from losers** (~7/10 and ~6/10 in both groups). They're table stakes. The separation is at the open — and at the top end, participation.
+4. **End CTAs are absent from every verified winner** and present in one 0.09x loser. (Glyph's climax CTA is a different animal — this flags end-cards, not mid-story CTAs.)
+5. **Counterexamples that bind us:** identical opening formula → 0.52x vs 5.5x (subject/pairing is first-order); IQ-gag escalation chain at 0.08x; shock opening + explicit CTA at 0.09x; perfect contradiction opening at 0.58x. No frame trick is sufficient alone.
 
-**Thumbnail correction (verified):** D.B. Cooper's feed thumbnail is a mid-video confrontation frame, not the opening. Thumbnail-based hook judgments — ours or competitors' — are invalid without playback. Every record now labels its visual source.
+## Three frame experiments (full specs in the study §9)
 
-## Sample building (Mission 003)
+- **A — Instant comprehension: "The Elevator Dilemma"** — snapping cable + lit OVERLOAD sign + the beloved gold crate: danger, constraint, and choice readable muted in frame one. Metric: stayed% vs 71.3%.
+- **B — Visual contradiction: "The Mayor"** — kid in an oversized sash at a giant desk, officials waiting on his decision; BUT/THEREFORE chain (formalizes the Oct 19 brief). Metric: stayed% + avg viewed.
+- **C — Question + consequence: "The Two Levers Dilemma"** — both consequences visible behind glass in frame one; one platform's cracks are painted on (the findable lie). Metrics: stayed% + comment rate vs 0.21% + paint-spotting share.
 
-- **MiAnimation1:** 13 structured records with URLs/IDs added (first URL-bearing competitor records in the system). Baseline = median of 12 most recent Shorts, 582.5K views. Breakouts: "Which Dai Dai is Better?" 3.2M (5.5x), "Which Haaland Sound is Better?" 2.6M (4.5x), "Choose the Right my Face" 19M (~33x, age-unmatched). Matched losers on the same channel down to 45K (0.08x).
-- **Standing counterexample:** the same "Which X is Better?" frame spans 0.08x–5.5x on one channel — format is not the active ingredient; the specific pairing is.
-- Xenost / ReymondRBLX / GeyzeRBX grids in flight; deep dives (frame-zero, 0–3s, story) follow for the full 24-video sample.
+## Three production lessons for Glyph
 
-## Recommended experiments (standing, from Mission 002 — full specs in the study)
-
-1. **Visual hook — "The Whole Dilemma In Frame One"** (lifeboat concept). Now directly backed by the H12 frame-zero evidence. Metric: stayed% + split vs 71.3/101.4.
-2. **Storytelling — "Every Accident Causes The Next"** (mayor/president escalation chain). Metric: stayed% + avg viewed together.
-3. **Engagement — "One Findable Lie"** (two-keys concept). Metric: comment rate vs the 0.21% baseline.
-
-Mission 003 §9 will add three frame-specific experiments (instant comprehension / visual contradiction / question-plus-consequence) once the winners-vs-losers counts exist.
+1. **The screenshot test:** before any Short ships, a muted still of frame one must show the dilemma's object, the danger/constraint, and one focal point. If it needs the audio to make sense, it's not ready.
+2. **Thumbnail ≠ opening.** D.B. Cooper's thumbnail is a mid-video frame (verified). Treat the thumbnail as its own packaging decision; judge hooks only from playback.
+3. **Never open on filler.** If the premise needs a sentence of narration, put the premise's OBJECT in frame one anyway — props carried the winners (a live mic's red light, a monster with the egg at its feet).
 
 ## Data links
 
-- Access: `reports/mission_003_access_report.md` · Study (in progress): `reports/mission_003_frame_zero_study.md`
-- Visual observations: `data/youtube_short_visual_observations.jsonl` · Frame patterns: `analysis/first_frame_patterns.md` · Comparisons: `analysis/visual_hook_comparisons.md`
-- Master DB: `WASGLYPH_PERFORMANCE_DB.md` · Data: `data/*.jsonl` · Hypotheses: `analysis/hypotheses.md` (H1–H12)
+- Study: `reports/mission_003_frame_zero_study.md` · Access: `reports/mission_003_access_report.md`
+- Visual records: `data/youtube_short_visual_observations.jsonl` (25) · Counts: `analysis/visual_hook_comparisons.md` · Frame patterns: `analysis/first_frame_patterns.md`
+- Master DB: `WASGLYPH_PERFORMANCE_DB.md` · Hypotheses: `analysis/hypotheses.md` (H1–H12) · Competitor records: 122 (74 YouTube with URLs)

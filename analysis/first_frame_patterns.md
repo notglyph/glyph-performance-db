@@ -15,3 +15,12 @@
 ## Awaiting sample completion
 
 Frame-zero entries for the competitor sample (MiAnimation1 pairs captured; Xenost / ReymondRBLX / GeyzeRBX grids in flight at first writing) will be added as deep-dive observations are verified — each with characters visible, focal point, text overlays, danger/choice visibility, and the exact second the premise becomes understandable.
+
+## Completed sample — Oct 20, 2026 (21 frame-verified competitor videos)
+
+- **Empty frame zeros are a loser signature.** The only content-free openings in the sample (a brown ground texture; a red curtain texture — both Xenost, both <0.35x) belong to underperformers. Every verified winner opens on information: a premise, a contradiction, a threat, or a choice.
+- **Prop-carried premises (Xenost A1):** a headset mic with a glowing red ON light + an F-grade paper told the story before narration did. Props that *demonstrate* the premise beat captions that state it.
+- **Rule demonstrated, not stated (Xenost A4):** hair flying off a liar's head at 0:00 — the world rule is shown happening.
+- **The fused frame (MiAnimation1 A3, 19M):** choice labels (which are the CTA words), a mystery silhouette, and a character in visible danger — choice + stakes + participation in one static tableau.
+- **Dark/static openings underperform on ReymondRBLX:** the verified B openings are a dusk-palette chase (0.71x) and a still close-up (0.27x); the verified A openings are bright, object-led (monster + egg; countdown + start line).
+- **Counterexamples kept:** MiAnimation1's B1 (IQ gag + label escalation, 0.08x) and B2 (shock opening, 0.09x) prove a loud frame zero is not sufficient; Xenost's grandpa (perfect contradiction, 0.58x) proves it again from the other side.

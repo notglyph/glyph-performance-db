@@ -16,6 +16,21 @@ The same creator runs the same "Which X is Better?" comparison frame at wildly d
 
 **Observation:** identical format, 0.08x–5.5x spread. The comparison *frame* is not the active ingredient — the specific pairing/topic is. This is a standing counterexample to any "format X wins" claim, including for Glyph's forced-choice dilemmas: the choice has to be one viewers actually split on.
 
-## Winners-vs-losers feature counts
+## Winners-vs-losers feature counts (Mission 003, completed Oct 20, 2026)
 
-*To be completed from verified deep dives (features: situation readable at 0:00 · conflict by 3s · danger/consequence visible · visual contradiction · unresolved question posed · no introductory filler · causal escalation · reversal present · participation mechanic · satisfying payoff). Each feature gets a count per group plus counterexamples, per Mission 003 §7. No counts are published before the observations behind them exist.*
+Frame-verified videos only: Group A n=10, Group B n=10, +1 typical control. Full study: `reports/mission_003_frame_zero_study.md`.
+
+| Feature | A | B |
+|---|---|---|
+| Premise readable at 0:00 without narration | 9/10 | 7/10 |
+| Frame zero empty / content-free | 0/10 | 2/10 |
+| Danger/consequence visible at 0:00 | 3/10 | 1/10 |
+| Visual contradiction at 0:00 | 4/10 | 2/10 |
+| Question/choice posed in-frame | 3/10 | 2/10 |
+| Causal escalation present | ~7/10 | ~7/10 |
+| Twist/reversal present | ~6/10 | ~5/10 |
+| Participation mechanic | 3/10 | 0/10 |
+| End CTA observed | 0/10 | 1/10 |
+| Premise carried only by title/narration | 1/10 | 3/10 |
+
+Per-creator honesty note: the F1 contrast is Xenost-driven (A 4/4 vs B 1/4); MiAnimation1's B group was 4/4 readable and still lost (subject/pairing + participation differentiate there). Escalation and twists do NOT discriminate — both groups have them at the same rate.
