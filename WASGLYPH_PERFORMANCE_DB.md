@@ -143,6 +143,8 @@ Every niche pop-off (~3x+ baseline engagement) the daily competitor tripwire cat
 
 (Update this section as entries accumulate. A pattern graduates from "watching" to "confirmed" after 3+ independent instances.)
 
+> **Oct 20 ~5:40 PM run update:** `post_created_at` was Unavailable for every IG post pulled today (provider regression — even single-post reads returned `created: null`), so 48h recency is unverified for all new entries; multiples are Calculated vs creator recent-post medians and all entries carry date caveats. New Part 2 entries: 14 (blooporobloxs Lie Counter 4.7x; noobifieed fear→superpower 10.7x comments — account back after ~29 days quiet; ricarro_yt teacher-prank POV 12.8x; robloxdevverse Monster Closet 14.0x comments + TRAIN 7.1x comments; onvi.shorts Rich Kid karma 6.6x/52x comments + Knife-out-of-poop 3.5x; craftee_films If You Move You Turn Invisible 3.1x — grew into the line from 1.96x; emori_films THE SHADOW 7.3x + SOULMATE TRACKER 4.4x + THE WORD 4.0x; imcrellar He Should Have Listened 4.4x; dylanstoriesyt Wake Up 5.1x; hisbloxy Everything I Draw Comes To Life 3.0x borderline). Growth on prior pop-offs (no new entries): capybluh sock 15x→**51.4x** still climbing, Microwave 13.7K→14.2K likes; nepshublox 🗿 now 137x, Engine Snail 5.1K→7.1K likes, Ghost Fish 1.96K→4.0K; onvi.shorts Parrot 3.0x→14.3x, FBI Kid 11.3K→17.0K likes (~54x); roblxify feathers riddle 1,585→1,882 comments, bird puzzle 476→547, murder-alibi 566→687; dylanstoriesyt Barcode 11.5x→12.0x; hisbloxy Nobody Would Sit With Him 7.6K→46.0K likes (~145x). **Correction:** today's roblxify feathers/bird flags are the SAME Oct 15 posts still growing — NOT new 13th/14th instances; the hidden-detail comment-bait count stands at 12+ instances. Pattern evidence deltas: **velocity clustering** — craftee_films' baseline median is now 37,246 likes (the hot streak is compounding the account's whole floor, not just hits); dylanstoriesyt's cluster is now 4 independent videos (+Wake Up). **Single-rule worlds** — 8th craftee instance (Invisible) + TWO independent-creator instances (robloxdevverse Monster Closet + TRAIN) + noobifieed fear→superpower (10.7x comments) — the one-creator confound is weakening; still a hypothesis per §11–13, confidence rising toward moderate. **True-crime retelling** — onvi.shorts Rich Kid karma = 2nd instance same creator; Parrot still growing (3.0x→14.3x) — still one creator, stays watching. **Everyday-mechanics explainers** — capybluh sock (51x) + Microwave (11x) = 2nd same-creator instance — stays watching, needs an independent creator. **Tragic-loss** — imcrellar "He Should Have Listened" = 8th instance, still one creator (repost-aggregator caveat). **New watching item — boom-bust distribution:** emori_films logged 3 hits at 4.0–7.3x while its newest 3 reels sit at 0.008–0.03x of baseline — the same account's floor collapsed. Counterpoint to velocity clustering: distribution appears to follow the hit, not the account. First instance; watch for repeats.
+
 1. **Escalation chains (CONFIRMED):** mundane trigger → absurd, ever-bigger consequences. nepshublox fan-police (182x), fearless.gman impostor surge (152x), nepshublox boxing (81x), nepshublox parking-spot feud (26x, Oct 12 — 5th big hit in ~2 weeks for this account), craftee_films sleepwalking night-shift (16.7x, Oct 13 — Army cot → hurricane → national debt paid → President reviews footage), nepshublox grandma (27.3x, Oct 13 — bat → revolver → bazooka → orchestrated switch), craftee_films chess-accident (32.8x, Oct 16 — luck-escalation underdog comedy; tripled from 117K to 357K likes in 24h). 8+ instances across 2 creators. Comedy lane gold for @notglyph.
 2. **Inverted goals (CONFIRMED):** win by losing / last place wins. craftee_films race (20.9x), nepshublox boxing (81x). Proven across 2+ creators — strong @notglyph mechanic.
 3. **Velocity clustering (CONFIRMED):** once a creator pops off twice, the next 2–3 posts ride the wave — the algorithm keeps feeding the hot account. nepshublox: boxing (81x) → fan-police (182x) → parking spot (26x) → grandma (27.3x) + bank sting (19.5x) → **4 fresh hits Oct 15–16 (DON'T CHECK THE SOUND 8.9x, W Titan Planet X 5.5x, Engine Snail 36.1x→46.8x, Limited Weapons ranking 7.6x) → Oct 17–18: 🗿 meme post (119.9x likes / 81.3x comments, account's 2nd-biggest multiple ever caught) + Divine Voidseer Pumpkin Egg (13.2x)** — 11+ hits in ~2 weeks, and the hot streak now extends to pure coverage posts AND opaque meme captions, not just comedy; craftee_films: race (20.9x) → aura (7.1x) → pilot (4.6x) + blink (11.8x) → night-shift (16.7x), crush (8.2x), jealous (7.4x), hitman (13.1x), LOVE LETTERS (6.8x), doctor's coat (4.5x), IKEA (4.0x comments) — 11 pop-offs in 4 days, and STILL running: BEST FRIENDS (7.6x, Oct 15) → Couple's Discount (3.9x comments, Oct 15) → chess champion (5.4x→**32.8x, Oct 16 — TRIPLED in 24h**) → She Never Says No (9.2x, Oct 16) → One Tower (3.2x→**15.4x, Oct 17–18 — grew 4.9x in 24h**) → **Oct 18: 1M Steps (9.8x), Teleport Every Hour (8.6x), Certain Material (7.7x), MAFIA GIRLFRIEND (5.3x comments), ROBOT GIRLFRIEND (3.0x)** → **Oct 19: the three Oct-18 world-rule posts grew AGAIN in 24h (Steps 106.8K→304.7K, +2.85x; Material +1.78x; Teleport +1.6x) and a comment-driven SCARY GIRL tripped at 3.2x** — **~18+ pop-offs in 8 days**, with the hot-streak compounding the back catalog, not just new posts; fearless.gman impostor surge (4+ hits since Oct 3). **dylanstoriesyt holds the club (Oct 10–17): Gold Coins (3.25x) → Barcode (11.5x) → Infinite Buffet (3.0x→3.8x, still climbing) — 3 pop-offs, all still rising.** **nepshublox's streak now covers whole lanes, not hits: two separate Halloween-fishing coverage posts (Ghost Fish 9.8x, Halloween Fishing 7.9x) tripped on the same night, Oct 18–19.** Actionable: when a competitor is hot, their NEXT posts get distribution — watch their next 48h for steal-able formats before they peak.
@@ -163,6 +165,174 @@ Every niche pop-off (~3x+ baseline engagement) the daily competitor tripwire cat
 ---
 
 ## Entries (newest first)
+
+### 2026-10-20 — blooporobloxs (IG) — "The Lie Counter Exposed Him!" (post date Unavailable)
+- **Date:** 2026-10-20 detection; post_created_at Unavailable in this run — 48h recency unverified.
+- **Post:** https://www.instagram.com/reel/DbySJFzvay2/ (media ID 18019148147920293)
+- **Metrics:** 1,526 likes, 11 comments
+- **Baseline multiple:** ~4.7x likes, ~1.4x comments (last-12 live-reel median 328 / 8; 4 trailing zero-engagement empty-caption posts excluded as scheduled drafts)
+- **Hook:** "The Lie Counter Exposed Him!" — a visible lie-counter device promises an exposure; the payoff is the reveal.
+- **Mechanic:** deception-reveal — a gadget quantifies dishonesty, someone gets caught.
+- **Escalation / Twist:** (story beats unverified — caption + numbers only, video not watched)
+- **Why it worked:** quantified-justice fantasy — the audience watches for the moment the liar's number ticks up; schadenfreude payoff.
+- **Steal-able for:** @notglyph — visible-stat gag lane (aura-overflow cousin); weak @wasglyph fit (no dilemma).
+- **Tags:** deception-reveal, visible-stat, twist-ending
+
+### 2026-10-20 — noobifieed (IG) — "Your FEAR Becomes Your SUPERPOWER..." (post date Unavailable)
+- **Date:** 2026-10-20 detection; post_created_at Unavailable — 48h recency unverified.
+- **Post:** https://www.instagram.com/reel/DdFSl03jMae/ (media ID 17889248364447862)
+- **Metrics:** 134,560 likes, 1,221 comments
+- **Baseline multiple:** ~2.6x likes, ~10.7x comments (last-9 median 52,078 / 114) — comments-axis trip
+- **Hook:** fear → superpower inversion — the thing that scares you becomes the thing that saves you.
+- **Mechanic:** rule-world premise (fear-transmutation rule); this account is @notglyph's direct style reference.
+- **Escalation / Twist:** (unverified — not watched)
+- **Why it worked:** empowerment inversion — fear is universal, flipping it into power is instant wish-fulfillment; "what would YOUR fear become" debate self-feeds comments.
+- **Steal-able for:** @notglyph — quantified rule-premise, strong lane fit. Also notable: first noobifieed activity in ~29 days (QUIET since Sep 21 per roster) — the style-ref account may be back.
+- **Tags:** rule-world, fear-inversion, empowerment, return-watch
+
+### 2026-10-20 — ricarro_yt (IG) — "POV: when you prank your teacher" (post date Unavailable)
+- **Date:** 2026-10-20 detection; post_created_at Unavailable — 48h recency unverified.
+- **Post:** https://www.instagram.com/reel/DeFdRkAIpTP/ (media ID 17965486881193954)
+- **Metrics:** 171,719 likes, 984 comments
+- **Baseline multiple:** ~12.8x likes, ~6.8x comments (last-7 median 13,461 / 145 — small n; treat multiple as approximate)
+- **Hook:** "POV: when you prank your teacher" — instant classroom-rebellion fantasy.
+- **Mechanic:** POV serial skit; prank-escalation comedy.
+- **Escalation / Twist:** (unverified — not watched)
+- **Why it worked:** universal school-mischief fantasy + POV identification; serial format (PART 2 / PART 3 posts in the same window) keeps the lane fed.
+- **Steal-able for:** @notglyph — school-comedy lane; ricarro's serial POV format is a borrowable container.
+- **Tags:** POV, prank, school-comedy, serial
+
+### 2026-10-20 — robloxdevverse (IG) — "Everyone Has a MONSTER in Their CLOSET..." (post date Unavailable)
+- **Date:** 2026-10-20 detection; post_created_at Unavailable — 48h recency unverified.
+- **Post:** https://www.instagram.com/reel/DeZP_szq68u/ (media ID 18491803099110711)
+- **Metrics:** 63 comments (likes field not returned by provider)
+- **Baseline multiple:** ~14.0x comments (last-12 comments median 4.5) — comments-axis only
+- **Hook:** universal rule stated as fact — everyone HAS a monster in their closet.
+- **Mechanic:** rule-world premise ("in this world, every time X…") — the exact lane @notglyph is expanding into.
+- **Escalation / Twist:** (unverified — not watched)
+- **Why it worked:** second-person universal rule + childhood-fear premise; the comments ARE the distribution (viewers name their monster).
+- **Steal-able for:** @notglyph — direct lane fit; quantified-rule premises are now winning on multiple independent accounts.
+- **Tags:** rule-world, universal-rule, horror-premise, comments-axis
+
+### 2026-10-20 — robloxdevverse (IG) — "Everyone Has a TRAIN..." (post date Unavailable)
+- **Date:** 2026-10-20 detection; post_created_at Unavailable — 48h recency unverified.
+- **Post:** https://www.instagram.com/reel/DeMf1eSqEOp/ (media ID 18076932512720050)
+- **Metrics:** 32 comments (likes field not returned by provider)
+- **Baseline multiple:** ~7.1x comments (last-12 comments median 4.5) — comments-axis only
+- **Hook:** "Everyone Has a TRAIN..." — same universal-rule frame, a mundane object made strange.
+- **Mechanic:** rule-world premise.
+- **Escalation / Twist:** (unverified — not watched)
+- **Why it worked:** same comments-as-content engine as the Monster Closet post; the "Everyone Has a ___" title template is doing the work across both posts.
+- **Steal-able for:** @notglyph — "Everyone Has a ___" is a testable title template.
+- **Tags:** rule-world, title-template, comments-axis
+
+### 2026-10-20 — onvi.shorts (IG) — "Rich Kid Got INSTANT KARMA For This 🤯" (post date Unavailable)
+- **Date:** 2026-10-20 detection; post_created_at Unavailable — 48h recency unverified.
+- **Post:** https://www.instagram.com/reel/DeZxmvIhKb0/ (media ID 17916540012261612)
+- **Metrics:** 2,057 likes, 183 comments
+- **Baseline multiple:** ~6.6x likes, ~52.4x comments (last-12 median 314 / 3.5)
+- **Hook:** "Rich Kid Got INSTANT KARMA" — class-justice retribution promised up front.
+- **Mechanic:** true-crime/retribution retelling — a rich kid's comeuppance.
+- **Escalation / Twist:** (unverified — not watched)
+- **Why it worked:** justice fantasy — the audience votes for the fall; 52x comments show debate/cheering in the comments.
+- **Steal-able for:** @notglyph — karma/retribution storytime lane (2nd true-crime instance for onvi alongside FBI's Most Wanted KID).
+- **Tags:** true-crime, karma, retribution, comments-axis
+
+### 2026-10-20 — onvi.shorts (IG) — "He Made A Knife Out Of POOP 🤯" (post date Unavailable)
+- **Date:** 2026-10-20 detection; post_created_at Unavailable — 48h recency unverified.
+- **Post:** https://www.instagram.com/reel/DeZgX-Khq1j/ (media ID 17947217097072052)
+- **Metrics:** 1,106 likes, 23 comments
+- **Baseline multiple:** ~3.5x likes, ~6.6x comments (last-12 median 314 / 3.5)
+- **Hook:** "He Made A Knife Out Of POOP" — gross-out impossibility, instantly visualizable.
+- **Mechanic:** shock-craft factoid — disgusting-but-true survival craft.
+- **Escalation / Twist:** (unverified — not watched)
+- **Why it worked:** disgust-curiosity — the audience has to see whether it's real.
+- **Steal-able for:** @notglyph — shock-craft adjacent to the crime lane; weaker fit than the karma frame.
+- **Tags:** shock-craft, gross-out, borderline
+
+### 2026-10-20 — @craftee_films (IG) — "If You Move You Turn invisible 😯" (post date Unavailable)
+- **Date:** 2026-10-20 detection; post_created_at Unavailable — 48h recency unverified.
+- **Post:** https://www.instagram.com/reel/Deq2NNguFiT/ (media ID 17998462890040057)
+- **Metrics:** 114,182 likes, 247 comments
+- **Baseline multiple:** ~3.1x likes (last-12 median 37,246 / 220) — was ~1.96x at the Oct 19 run; grew into the trip line in ~24h
+- **Hook:** "If You Move You Turn invisible" — second-person quantified rule; the viewer IS the subject.
+- **Mechanic:** single-rule world premise — one impossible rule, explore the consequences.
+- **Escalation / Twist:** (unverified — not watched)
+- **Why it worked:** the formula cluster keeps compounding — 8th single-rule premise in ~4 days; second-person quantified rules are now the account's formula, and hot-streak distribution lifts even the below-line ones.
+- **Steal-able for:** @notglyph — the strongest current formula in the niche; quantified rules beat abstract ones.
+- **Tags:** rule-world, single-rule, hot-streak, second-person
+
+### 2026-10-20 — emori_films (IG) — "THE SHADOW" (post date Unavailable)
+- **Date:** 2026-10-20 detection; post_created_at Unavailable — 48h recency unverified. Likely from the Sep 18–21 viral window (the newest 3 reels sit at 71/115/288 likes — the bust floor); newest-first ordering here is by detection date.
+- **Post:** https://www.instagram.com/reel/DdjbgHKto--/ (media ID 17880242844535295)
+- **Metrics:** 61,049 likes, 153 comments
+- **Baseline multiple:** ~7.3x likes, ~5.7x comments (last-9 median 8,383 / 27)
+- **Hook:** "THE SHADOW" — one-word dread title.
+- **Mechanic:** (unverified — not watched; account runs boom-bust story posts)
+- **Escalation / Twist:** (unverified)
+- **Why it worked:** unverified beyond the numbers — new to the DB; story beats not inspected.
+- **Steal-able for:** unclear — mechanics unverified; watch the account's next 48h.
+- **Tags:** boom-bust, date-unverified
+
+### 2026-10-20 — emori_films (IG) — "SOULMATE TRACKER" (post date Unavailable)
+- **Date:** 2026-10-20 detection; post_created_at Unavailable — 48h recency unverified; likely Sep 18–21 viral window.
+- **Post:** https://www.instagram.com/reel/DdewghptMrP/ (media ID 18163559176487160)
+- **Metrics:** 36,799 likes, 168 comments
+- **Baseline multiple:** ~4.4x likes, ~6.2x comments (last-9 median 8,383 / 27)
+- **Hook:** "SOULMATE TRACKER" — romance-tech premise in two words.
+- **Mechanic:** (unverified — not watched)
+- **Escalation / Twist:** (unverified)
+- **Why it worked:** unverified beyond the numbers.
+- **Steal-able for:** unclear — mechanics unverified.
+- **Tags:** boom-bust, date-unverified
+
+### 2026-10-20 — emori_films (IG) — "THE WORD" (post date Unavailable)
+- **Date:** 2026-10-20 detection; post_created_at Unavailable — 48h recency unverified; likely Sep 18–21 viral window.
+- **Post:** https://www.instagram.com/reel/DdWPKmStvp1/ (media ID 17961878202195003)
+- **Metrics:** 33,343 likes, 76 comments
+- **Baseline multiple:** ~4.0x likes, ~2.8x comments (last-9 median 8,383 / 27)
+- **Hook:** "THE WORD" — one-word mystery title.
+- **Mechanic:** (unverified — not watched)
+- **Escalation / Twist:** (unverified)
+- **Why it worked:** unverified beyond the numbers.
+- **Steal-able for:** unclear — mechanics unverified.
+- **Tags:** boom-bust, date-unverified
+
+### 2026-10-20 — imcrellar (IG) — "He Should Have Listened" (post date Unavailable)
+- **Date:** 2026-10-20 detection; post_created_at Unavailable — 48h recency unverified.
+- **Post:** https://www.instagram.com/reel/DeSQH6YziG6/ (media ID 17907629730589043)
+- **Metrics:** 19,980 likes, 71 comments
+- **Baseline multiple:** ~4.4x likes, ~2.2x comments (last-15 median 4,540 / 33 — wide variance; streaky repost aggregator, captions credit originals via "og:")
+- **Hook:** "He Should Have Listened" — ignored-warning regret frame.
+- **Mechanic:** tragic-loss / consequence story (unverified beats; fits the account's tragic-loss cluster).
+- **Escalation / Twist:** (unverified)
+- **Why it worked:** regret is the tragic-loss cluster's engine — the audience watches knowing the warning will be ignored.
+- **Steal-able for:** @notglyph — tragic-loss lane (8th instance for this account; still one creator — needs an independent creator).
+- **Tags:** tragic-loss, regret, repost-aggregator, date-unverified
+
+### 2026-10-20 — dylanstoriesyt (IG) — "Wake Up 😱" (posted ~Oct 8 per DB cross-ref)
+- **Date:** 2026-10-20 detection; post_created_at Unavailable — the Oct 15 Infinite Buffet entry notes this post was already at 34.7K likes on Oct 8.
+- **Post:** https://www.instagram.com/reel/DePiYa5klOU/ (media ID 18102080216027677)
+- **Metrics:** 37,011 likes, 148 comments
+- **Baseline multiple:** ~5.1x likes, ~3.4x comments (last-12 median 7,188 / 43)
+- **Hook:** "Wake Up 😱" — alarm-title.
+- **Mechanic:** (unverified — not watched)
+- **Escalation / Twist:** (unverified)
+- **Why it worked:** unverified beyond numbers; 4th documented dylanstoriesyt pop-off — the account's velocity cluster (Gold Coins → Barcode → Infinite Buffet → Wake Up) now spans 4 independent videos.
+- **Steal-able for:** @notglyph — survival/mystery story lane.
+- **Tags:** velocity-cluster, date-unverified
+
+### 2026-10-20 — hisbloxy (IG) — "Everything I Draw Comes To Life✏️😱" (post date Unavailable)
+- **Date:** 2026-10-20 detection; post_created_at Unavailable — 48h recency unverified.
+- **Post:** https://www.instagram.com/reel/DeHR2RAS85t/ (media ID 18118097555318735)
+- **Metrics:** 961 likes, 9 comments
+- **Baseline multiple:** ~3.0x likes, ~1.3x comments (last-12 median 318 / 7) — exactly at the trip line
+- **Hook:** "Everything I Draw Comes To Life" — wish-fulfillment premise, instantly visualizable.
+- **Mechanic:** power-premise story (unverified beats).
+- **Escalation / Twist:** (unverified)
+- **Why it worked:** the premise IS the hook — every viewer instantly imagines what they'd draw; borderline trip (3.0x exactly).
+- **Steal-able for:** @notglyph — power-premise story lane; direct @notglyph comp (367K followers).
+- **Tags:** power-premise, wish-fulfillment, borderline
 
 ### 2026-10-19 — nepshublox (IG) — "Eternal Ghost Fish" (posted Oct 19 03:44)
 - **Metrics:** 1,960 likes, 26 comments
