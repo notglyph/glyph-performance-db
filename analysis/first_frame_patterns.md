@@ -12,6 +12,14 @@
 - **Pattern implication (hypothesis, n=1, own channel):** a question asked by *voice* over a visually neutral frame does not stop the swipe; the question has to be *visible*. Registered as H12 in `analysis/hypotheses.md`.
 - **Thumbnail warning (verified):** this video's feed thumbnail is a mid-video confrontation frame, not frame zero. Any future "first frame" claim sourced from a thumbnail is invalid unless playback confirms it.
 
+## Verified frame-zero #2 — "Lucky Coin Dilemma.." (@wasglyph, own channel)
+
+- **Source:** direct playback inspection, Oct 22, 2026 (DB entry, frame-zero-verified).
+- **Frame zero:** Roblox street scene; foreground avatar holds up a glowing gold coin with a "$" symbol, floating dollar bill beside it; burned-in "Would" near bottom-center, unfolding to "Would you take unlimited luck if…" by ~4s.
+- **Readable without audio:** a prize (unlimited luck) is on offer. **Not readable:** the choice, the cost, or the twist condition — no dilemma panel or cost is visible at 0:00.
+- **Outcome context:** 64.9% stayed / 79.0% avg viewed (Studio, ~87h) — whole-video rejection, dying, no push. Stayed% LOWER than D.B. Cooper's fully empty opening (72.2%).
+- **Pattern implication (Oct 26 weekly add, Glyph n=2):** a visible prize is not a visible dilemma. H12's reframe tightens: frame zero must carry the dilemma itself (choice + cost), not just any visible element. A prize-first frame reads as a promise, not a decision.
+
 ## Awaiting sample completion
 
 Frame-zero entries for the competitor sample (MiAnimation1 pairs captured; Xenost / ReymondRBLX / GeyzeRBX grids in flight at first writing) will be added as deep-dive observations are verified — each with characters visible, focal point, text overlays, danger/choice visibility, and the exact second the premise becomes understandable.
