@@ -33,6 +33,16 @@ Seeded Oct 15, 2026 from morning briefings and upload-radar notes (figures appro
 
 ## Part 1 — Entries (newest first)
 
+### "The Cliff Dilemma.."
+- **Upload date:** Oct 28, 2026 (~5:10:51 PM ET — Verified from yt-dlp `timestamp` 2026-10-28T17:10:51-04:00; Studio clock not pulled this run)
+- **Check-ins:**
+  - Oct 28 (~3.48h, public yt-dlp — Studio not opened this run): 21,966 views, 374 likes, 84 comments (comment rate 0.38%); % stayed / avg % viewed / AVD / net subs Unavailable (public-only read); duration 0:26; pace ~6312/hr; video ID w8FOYssFlO0; production name **10 YEARS** (Every Save Costs You 10 Years) — auto-caption transcript confirms life-timer + cliff grab + sick-Mom line + grab/mom CTA
+- **vs 82% bar:** Unavailable this run (no stayed%)
+- **Verdict:** provisional (early public seed) — no Studio retention yet; first check-in only
+- **Format notes:** Hub production name 10 YEARS; YouTube title The Cliff Dilemma.. Pending Mom-portrait / VO lines 9–10 / sick-Mom decisions were superseded by the publish (transcript includes "Your mom is sick and she needs you"). Frame zero NOT inspected this run.
+- **Tags:** 10-years, cliff-dilemma, early-read, public-only, life-timer
+
+
 ### "I Accidentally Became President of the World.."
 - **Upload date:** Oct 27, 2026 (~8:52 PM ET — Inferred from the dashboard "First 11 hours 41 minutes" card at 8:33 AM ET Oct 28; Studio shows the date only, no clock time)
 - **Check-ins:**
