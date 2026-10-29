@@ -8,7 +8,7 @@ How the Glyph Shorts Intelligence System collects and judges evidence. Establish
 2. **Compare like with like.** Videos are compared within the same channel at similar ages after publication. A 200K video from a 10K-baseline creator can matter more than a 2M video from a 5M-baseline creator.
 3. **Record the benchmark.** Every classification names the baseline, the window, the number of comparable videos, and the method (median preferred). No baseline → classification is `provisional`, never fabricated.
 4. **Breakout multiplier** = observed views ÷ channel baseline views. Exploratory bands: ≥3x strong breakout candidate; 2–3x notable; 0.75–1.25x typical; <0.5x underperformer candidate. These are research categories, not algorithm facts.
-5. **Snapshots, not overwrites.** Every new measurement is a new snapshot with its own collection timestamp. History is preserved.
+5. **Snapshots, not overwrites.** Every new measurement is a new snapshot with its own collection timestamp. History is preserved. Monitored creators: `methodology/tripwire_roster.md`. Competitor JSONL pushes must merge by record `id` against remote head (never whole-file overwrite from a stale local copy that omits roster creators such as @GreenBroRants).
 
 ## Accuracy
 
